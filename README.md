@@ -32,6 +32,7 @@ I'm a passionate developer exploring the world of programming and technology. I 
   "Never stop learning, because technology never stops evolving."
 
 </div>
+
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=DB7093 
 </p>

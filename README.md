@@ -15,20 +15,18 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 ✨ Interested in web development and software engineering.
 🎯 Always improving my programming and problem-solving skills.
 
-
-
 💻 Featured Projects
 🌷 Project 01 — Personal Portfolio
 
 A responsive personal portfolio showcasing my skills, background, and projects.
 
-Technologies: HTML, CSS, JavaScript
+Technologies: Java
 Repository: View Project
 🎀 Project 02 — Web Application
 
 A modern web application designed with functionality and user experience in mind.
 
-Technologies: HTML, CSS, JavaScript
+Technologies: Java
 Repository: View Project
 🌸 Project 03 — Python Project
 

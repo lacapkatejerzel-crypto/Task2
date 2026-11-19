@@ -15,26 +15,16 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 ✨ Interested in web development and software engineering.
 🎯 Always improving my programming and problem-solving skills.
 
-💻 Featured Projects
-🌷 Project 01 — Personal Portfolio
+## 🌷 My skills
+☕ Java Fundamentals
+🧩 Object-Oriented Programming (OOP)
+📦 Classes and Objects
+🔄 Loops and Conditional Statements
+📚 Arrays and Collections
 
-A responsive personal portfolio showcasing my skills, background, and projects.
+## 🌸 My Github Journey
+I'm a passionate developer exploring the world of programming and technology. I enjoy learning new skills, building creative projects, and turning ideas into reality. Every commit is a step toward becoming a better developer. 💗
 
-Technologies: Java
-Repository: View Project
-🎀 Project 02 — Web Application
-
-A modern web application designed with functionality and user experience in mind.
-
-Technologies: Java
-Repository: View Project
-🌸 Project 03 — Python Project
-
-A Python-based application demonstrating programming and problem-solving skills.
-
-Technologies: Python
-Repository: View Project
-📊 GitHub Statistics
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=DB7093

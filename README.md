@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 </p>
 
 ## 🎀 About Me
-💻 I'm a Full-Stack Developer.
+💻 I'm a Graphic Organizer.
 🌸 I enjoy developing beautiful and functional websites.
 💗 Passionate about learning new technologies.
 🚀 Focused on writing clean, maintainable code.

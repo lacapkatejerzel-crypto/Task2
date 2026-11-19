@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 ## 🌸 My Github Journey
 I'm a passionate developer exploring the world of programming and technology. I enjoy learning new skills, building creative projects, and turning ideas into reality. Every commit is a step toward becoming a better developer. 💗
 
-<div/> align="center">
   
   ### Thankyou for visiting!
 

@@ -14,24 +14,6 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer who loves bu
 🚀 Focused on writing clean, maintainable code.
 ✨ Interested in web development and software engineering.
 🎯 Always improving my programming and problem-solving skills.
-🛠️ Tech Stack & Tools
-Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-Backend Development & Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
 💻 Featured Projects
 🌷 Project 01 — Personal Portfolio
